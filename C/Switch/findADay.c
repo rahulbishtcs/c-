@@ -3,7 +3,6 @@
 int main(){
     
     int x;
-    float f,c;
     printf("Enter the no. between 1 to 7\n");
     scanf("%d",&x);
     switch(x){
