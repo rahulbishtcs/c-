@@ -5,7 +5,7 @@ main ()
 {
   int i, j, row, col;
   int m1[10][10];
-  printf ("Enter row and col for first matrix\n");
+  printf ("Enter row and col of matrix\n");
   scanf ("%d%d", &row, &col);
   printf ("Enter matrix\n");
   for(i=0;i<row;i++){
