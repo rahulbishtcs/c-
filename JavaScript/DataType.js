@@ -14,3 +14,13 @@ console.log(typeof(rollNo))
 
 //template literal
 console.log(`My name is ${myName} and my age is ${age}`)
+
+//Bug
+console.log(typeof null)        //object
+
+//BigInt
+let myNum1 = BigInt(122222222212121)
+let myNum2 = 2121221221n;
+console.log(myNum1)
+console.log(myNum2)
+
