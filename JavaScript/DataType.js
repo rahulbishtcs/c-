@@ -12,3 +12,5 @@ console.log(typeof(age))
 let rollNo = +"34"  //put + sign before string
 console.log(typeof(rollNo))
 
+//template literal
+console.log(`My name is ${myName} and my age is ${age}`)
