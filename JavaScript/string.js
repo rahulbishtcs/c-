@@ -22,3 +22,12 @@ console.log(yourName.toLocaleLowerCase())
 
 //slice
 console.log(myName.slice(6,11));
+
+//concatenation
+let fName = "Rahul"
+let lName = "Bisht"
+console.log(fName+" "+lName)
+
+let fNumber = +"10"
+let sNumber = +"20"
+console.log(fNumber+sNumber)
